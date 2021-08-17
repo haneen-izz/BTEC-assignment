@@ -1,0 +1,94 @@
+# tooling
+
+## stage1-1
+ 
+## compare and choose from the following tools to work on your project:
+
+|Category  |     Tool    |  tool |
+|----------|:-------------:|------:|
+| IDE	   |  VS code  | PyCharm|
+|Operating System | Linux   |  Windows |
+|Version-control |GitHub    | GitLab  |
+
+
+## vs code vs pyCharm
+
+in my project i chose vs-code and here is the comparison between them:
+
+**performance**
+
+VS-Code had an excellent startup speed, after the VM was loaded, VSCode would load in around 4 seconds.
+VS-Code runs a number of processes and requires a significant amount of memory, nearly 1 GB.This is due to the electron framework. 
+When compared to PyCharm, Visual Studio Code is significantly quicker and about
+PyCharm is considerably longer to load than VSCode, taking more than ten seconds.
+However, memory consumption is lower, in the 500MB range.
+
+
+**Virtual environment**
+The virtual environment is essential in the creation of libraries and experiments.
+Python interpreters are supported by Visual Studio Code.
+In PyCharm, you may manually add virtual environments and specify their interpreters as the default.
+The primary issue with these settings is their slowness.
+In both IDEs, there is some latency. 
+
+**Price**
+VS-Code is open source software that is free to use under the MIT license,While PyCharm Community Edition is free, it has restricted functionality. 
+
+
+**Extensibility**
+PyCharm is an IDE in the JetBrains family, It contains about 3000 extensions, which are displayed on the JetBrains website also VS Code, on the other hand, is a basic editor that can be transformed into an IDE with the use of Extensions.
+Python support is provided via a single extension so It includes extensions for everything and allows developers to create their own.
+As a result, VSCode is more adaptable than PyCharm. 
+
+---
+
+
+## linux vs windows
+i used linux in my project
+**security**
+Linux is more secure than Windows, and hackers and virus creators will have a tough time breaking through Linux. 
+Windows is the most common target for virus and malware writers, and it is the most susceptible without anti virus software. 
+
+**Usability**
+Windows provides users with a simple operating system, but it takes longer to install also Linux is difficult to install, even though it has the capacity to make complex jobs easy to perform. 
+
+**Command Line Usage**
+The command line is a highly useful and powerful tool in Linux that is used for administration and daily activities, The `cmd` command in Windows may be used to open a command line and execute a basic range of functions. It contains PowerShell to compensate for the command line's restricted uses.
+
+---
+
+## github vs gitlab
+
+in my project i chose github 
+**fees**
+With openly accessible codes, GitHub projects are free and available to anyone also GitLab is a repository that only allows its web development team to collaborate on codes. 
+
+**community**
+GitHub has a sizable developer community, It has millions of active users with whom to debate issues also GitLab conducts community events that bring together contributors and open-source technologies. 
+
+**location**
+In the free plan, GitHub does not enable you to locate a repository within an organization also While utilizing the free plan, GitLab allows users to find a repository within an organization. 
+
+
+## stage1-2
+
+ why i chose GitHub, 
+- `github` becuase its Becoming known as an open-source world implies that if you want to operate an open core or open-source project, users will understand how it works as well, Allows for easy sharing and has simple control options.
+
+ why i chose linux, 
+- i used `Linux` because it is more dependable. It is safer for many people to observe what happens in the code and work together to find the best solution. It also has an excellent security system. it give us the Customization  feature that provides it a significant edge over other operating systems.
+Because it is an open source operating system, you may change any feature, add or remove any feature based on your needs. 
+
+ why i chose vs-code, 
+- i used `vs-code` because It has a lightning fast source code editor that is ideal for day to day use. It Code, which supports hundreds of languages, allows us to be productive right away by highlighting syntax. VS Code also interacts with build and scripting tools to execute typical operations, which speeds up daily processes.
+VS Code has Git support, allowing us to interact with source control without leaving the editor, including view.  
+
+
+
+
+
+
+
+
+
+
