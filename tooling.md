@@ -44,7 +44,7 @@ As a result, VSCode is more adaptable than PyCharm.
 
 
 ## linux vs windows
-i used linux in my project
+
 **security**
 Linux is more secure than Windows, and hackers and virus creators will have a tough time breaking through Linux. 
 Windows is the most common target for virus and malware writers, and it is the most susceptible without anti virus software. 
@@ -54,12 +54,11 @@ Windows provides users with a simple operating system, but it takes longer to in
 
 **Command Line Usage**
 The command line is a highly useful and powerful tool in Linux that is used for administration and daily activities, The `cmd` command in Windows may be used to open a command line and execute a basic range of functions. It contains PowerShell to compensate for the command line's restricted uses.
-
+i used linux in my project
 ---
 
 ## github vs gitlab
 
-in my project i chose github 
 **fees**
 With openly accessible codes, GitHub projects are free and available to anyone also GitLab is a repository that only allows its web development team to collaborate on codes. 
 
@@ -68,7 +67,7 @@ GitHub has a sizable developer community, It has millions of active users with w
 
 **location**
 In the free plan, GitHub does not enable you to locate a repository within an organization also While utilizing the free plan, GitLab allows users to find a repository within an organization. 
-
+so in my project i chose github 
 
 ## stage1-2
 
