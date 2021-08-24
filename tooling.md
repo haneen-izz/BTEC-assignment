@@ -11,7 +11,15 @@
 |Version-control |GitHub    | GitLab  |
 
 
+
 ## vs code vs pyCharm
+what is vs code and pyCharrm?
+
+**Visual Studio** Code blends the ease of use of a source code editor with sophisticated developer features such as IntelliSense code completion and debugging.
+First and foremost, an editor is someone who gets out of your way.
+The pleasantly smooth edit-build-debug cycle means you spend less time messing with your surroundings and more time acting on your ideas.
+
+**pyCharm** is the most widely used IDE for the Python scripting language. PyCharm provides its customers and developers with some of the greatest features in the following areas like Inspection and completion of the code
 
 in my project i chose vs-code and here is the comparison between them:
 
@@ -44,6 +52,19 @@ As a result, VSCode is more adaptable than PyCharm.
 
 
 ## linux vs windows
+what is linux and windows?
+
+## linux: 
+it has the potential to be a free and open source operating system that complies to industry standards.
+It offers a programming interface that is still program compatible with operating system based platforms and a wide range of applications. a UNIX operating system system also comprises a number of components that were created independently. 
+
+
+## windows:
+ It's conceivable that Windows is a commissioned operating system that prevents you from accessing ASCII text files, It is designed for those with no prior programming expertise, as well as for commercial and other industrial users. It's really easy to use and comprehend. 
+
+
+
+
 
 **security**
 Linux is more secure than Windows, and hackers and virus creators will have a tough time breaking through Linux. 
@@ -60,6 +81,19 @@ i used linux in my project
 
 ## github vs gitlab
 
+## github: 
+
+GitHub is a website and cloud based service that assists developers in storing and managing code, as well as tracking and controlling changes to their code. 
+
+
+## gitlab: 
+
+GitLab is an open source project maintained by GitLab ,
+You may install and administer the GitLab Community Edition, which is completely open source and distributed under an MIT license.GitLab also offers an Enterprise Edition,
+ which adds capabilities to the open source edition.
+
+
+
 **fees**
 With openly accessible codes, GitHub projects are free and available to anyone also GitLab is a repository that only allows its web development team to collaborate on codes. 
 
@@ -75,20 +109,26 @@ so in my project i chose github
  why i chose GitHub, 
 - `github` becuase its Becoming known as an open-source world implies that if you want to operate an open core or open-source project, users will understand how it works as well, Allows for easy sharing and has simple control options.
 
+
  why i chose linux, 
 - i used `Linux` because it is more dependable. It is safer for many people to observe what happens in the code and work together to find the best solution. It also has an excellent security system. it give us the Customization  feature that provides it a significant edge over other operating systems.
 Because it is an open source operating system, you may change any feature, add or remove any feature based on your needs. 
+
 
  why i chose vs-code, 
 - i used `vs-code` because It has a lightning fast source code editor that is ideal for day to day use. It Code, which supports hundreds of languages, allows us to be productive right away by highlighting syntax. VS Code also interacts with build and scripting tools to execute typical operations, which speeds up daily processes.
 VS Code has Git support, allowing us to interact with source control without leaving the editor, including view.  
 
 
+### references
 
+1. [https://www.tutorialspoint.com/pycharm/pycharm_introduction.htm](https://www.tutorialspoint.com/pycharm/pycharm_introduction.htm)
 
+2.  [https://tangenttechnologies.ca/blog/pycharm-vs-vscode/](https://tangenttechnologies.ca/blog/pycharm-vs-vscode/)
 
+3. [https://www.upgrad.com/blog/github-vs-gitlab-difference-between-github-and-gitlab/](https://www.upgrad.com/blog/github-vs-gitlab-difference-between-github-and-gitlab/)
 
-
+ 
 
 
 
