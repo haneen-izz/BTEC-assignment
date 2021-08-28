@@ -121,11 +121,13 @@ VS Code has Git support, allowing us to interact with source control without lea
 
 
 ## task2-3
+
+
 - i chose working in github especially in my project because we worked as a team and we needed an app to help us in our project to push our code also merge it in addition it has a feature that let us managing the work between us in github and its like a trello board so that helped us a lot in managing our tasks between the team 
 
 - i used vs code to build our project that helped us in writing the code using css, js and html and it supplies us a live server that allows us to run the code. it has Extensions and most programming languages are supported, if you wish to use a language that is not supported, you can download and use an extension because it runs as a separate process, the extension does not slow down the editor in addition Repository With the code's ever increasing demand, secure and fast storage is critical also It is linked to Git or may be linked to any other repository in order to pull or save instances. 
 
-- i chose Ubuntu becuase its more secure. including the fact that Ubuntu provides us with better access, commands 
+- i chose Ubuntu becuase its more secure. including the fact that Ubuntu provides us a better access, commands to open the vs code and for example if you link these together you can open the terminal and use the ubuntuu to push the work on github 
 
 
 
